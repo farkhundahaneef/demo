@@ -1,0 +1,10 @@
+/*
+Theme Name: Divi Child
+Text Domain:Divi-child
+Template:Divi
+*/
+.et_header_style_centered #main-header div#et-top-navigation {
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    margin-top: -88px;}
